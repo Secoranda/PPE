@@ -363,5 +363,5 @@ BOOL CALLBACK DialogFunct(HWND hDlg, UINT message, WPARAM wParam, LPARAM lParam)
                     return TRUE;
             }
     }
-    return FALSE; ;
+    return FALSE; 
 }
