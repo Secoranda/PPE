@@ -3,7 +3,7 @@
 ## Description 
 I created a Windows application.
 
-Main idea of the app is a List of a Crew's members, that entered per one person's name in first input box, can be add using Add button to the second input box as a list. Pressing on Clear button the whole list is deleted. If user need to change or delete information about one member is enough to press on right mouse click and a pop-up menu will appear (with 2 options: Rename or Delete). Choosing Delete, the selected member will be deleted and by choosing Rename, a dialog box will appear with a input box for new changes and a button Rename that will save the changes.
+Main idea of the app is a List of a Crew's members, that entered per one person's name in first input box, can be add using Add button to the second input box as a list. Pressing on Clear button the whole list is deleted. If user need to change or delete information about one member is enough to press on right mouse click and a pop-up menu will appear (with 2 options: Rename or Delete). Choosing Delete, the selected member will be deleted and by choosing Rename, a dialog box will appear with a input box for new changes and a button Rename that will save the changes. A disadvantage is that: in case no name will be entered in the rename box than in the list will be a empty line.
 
 Based on child window controls, were implemented 2 scrolls that change the window's weight and height. So is possible to change the size with one unit or using SB_THUMBTRACK() is possible to maximize and minimize as much as user needs.
 
