@@ -1,7 +1,7 @@
 
 # Laboratory work analysis
 ## Description 
-I created a Windows application.
+That's a Windows application.
  
 Main idea of the app is to create GDI Primitives based on Mouse Moving. Was implemented buttons for drawing lines, ellipses, rectangles 
 and a button for a simple pen. Also, on Bezier button, will be drawn only a bezie curve on the static points, not on mouse move.
