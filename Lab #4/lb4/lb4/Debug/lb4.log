@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\g50\desktop\main.cpp(29): warning C4101: 'clr': unreferenced local variable
+  lb4.vcxproj -> C:\Users\G50\Desktop\PPE\Lab #4\lb4\Debug\lb4.exe
