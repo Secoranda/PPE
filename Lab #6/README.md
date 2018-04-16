@@ -4,7 +4,7 @@
 ## Description 
 That's a Windows application.
  
-In this laboratory work was needed to convert a previous laboratory work from cpp in c#. I've chosen laboratory work nr.3, paint program.
+In this laboratory work was needed to convert a previous laboratory work from cpp in c#. I've chosen laboratory work nr.3, paint program., done in WinForm Application
  
 Comparing these two languages, I'll mention that in c# functions are easier to implement and looks better as interface,  however didn't have enough time to study deeper the c#.
 
