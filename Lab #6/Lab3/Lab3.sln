@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PPE-Lab3", "PPE-Lab3\PPE-Lab3.csproj", "{AE8FAB8A-0956-4906-8448-AD259D42765B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE8FAB8A-0956-4906-8448-AD259D42765B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE8FAB8A-0956-4906-8448-AD259D42765B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE8FAB8A-0956-4906-8448-AD259D42765B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE8FAB8A-0956-4906-8448-AD259D42765B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04CCEB1D-998C-44D0-AD2E-69F8D3B81550}
+	EndGlobalSection
+EndGlobal

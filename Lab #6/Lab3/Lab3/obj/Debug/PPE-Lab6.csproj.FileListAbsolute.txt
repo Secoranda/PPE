@@ -1,0 +1,7 @@
+C:\Users\G50\Desktop\Lab#3\PPE-Lab3\PPE-Lab3\obj\Debug\PPE-Lab6.csprojResolveAssemblyReference.cache
+C:\Users\G50\Desktop\Lab#3\PPE-Lab3\PPE-Lab3\obj\Debug\PPE_Lab6.Form1.resources
+C:\Users\G50\Desktop\Lab#3\PPE-Lab3\PPE-Lab3\obj\Debug\PPE_Lab3.Properties.Resources.resources
+C:\Users\G50\Desktop\Lab#3\PPE-Lab3\PPE-Lab3\obj\Debug\PPE-Lab6.csproj.GenerateResource.Cache
+C:\Users\G50\Desktop\Lab#3\PPE-Lab3\PPE-Lab3\obj\Debug\PPE-Lab6.csproj.CoreCompileInputs.cache
+C:\Users\G50\Desktop\Lab#3\PPE-Lab3\PPE-Lab3\obj\Debug\PPE-Lab3.exe
+C:\Users\G50\Desktop\Lab#3\PPE-Lab3\PPE-Lab3\obj\Debug\PPE-Lab3.pdb
